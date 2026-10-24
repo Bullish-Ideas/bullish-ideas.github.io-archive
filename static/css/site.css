@@ -1,0 +1,12 @@
+/* Keep reading measures comfortable on wide screens. */
+.prose {
+  max-width: 68ch;
+}
+
+.card-copy h3 {
+  color: var(--color-text);
+}
+
+.card>a:hover h3 {
+  color: var(--color-accent);
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">A prototype as a question</title>
+  <desc id="desc">A paper outline marks one decision point before three possible routes.</desc>
+  <rect width="960" height="720" fill="#EFE9DC"/>
+  <rect x="146" y="122" width="668" height="476" rx="8" fill="#F6F2E8" stroke="#D6CEC0" stroke-width="3"/>
+  <path d="M146 182h668" stroke="#D6CEC0" stroke-width="3"/>
+  <circle cx="178" cy="152" r="7" fill="#805500"/>
+  <circle cx="202" cy="152" r="7" fill="#D6CEC0"/>
+  <circle cx="226" cy="152" r="7" fill="#D6CEC0"/>
+  <rect x="212" y="254" width="190" height="204" rx="4" fill="#EFE9DC" stroke="#242724" stroke-width="2"/>
+  <path d="M242 296h128M242 320h86M242 366h128M242 390h105" stroke="#8C8B7F" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="307" cy="424" r="17" fill="#805500"/>
+  <path d="M402 355h74c42 0 45-83 88-83h32M476 355c42 0 45 0 88 0h32M476 355c42 0 45 83 88 83h32" fill="none" stroke="#242724" stroke-linecap="round" stroke-width="3"/>
+  <rect x="596" y="248" width="142" height="62" rx="4" fill="#F6F2E8" stroke="#805500" stroke-width="3"/>
+  <rect x="596" y="324" width="142" height="62" rx="4" fill="#805500"/>
+  <rect x="596" y="400" width="142" height="62" rx="4" fill="#F6F2E8" stroke="#242724" stroke-width="2"/>
+  <path d="M623 280h86M623 355h67M623 432h78" stroke="#8C8B7F" stroke-linecap="round" stroke-width="4"/>
+  <path d="M214 512h526" stroke="#D6CEC0" stroke-width="2"/>
+  <circle cx="768" cy="535" r="5" fill="#805500"/>
+</svg>

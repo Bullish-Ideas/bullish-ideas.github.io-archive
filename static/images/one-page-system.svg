@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">A one-page design system</title>
+  <desc id="desc">A single sheet groups type, spacing, surface, and action samples.</desc>
+  <rect width="960" height="720" fill="#EFE9DC"/>
+  <rect x="200" y="94" width="560" height="532" rx="5" fill="#F6F2E8" stroke="#242724" stroke-width="3"/>
+  <path d="M250 161h207M250 194h310" stroke="#242724" stroke-linecap="round" stroke-width="5"/>
+  <path d="M250 233h460" stroke="#D6CEC0" stroke-width="2"/>
+  <rect x="250" y="270" width="192" height="126" rx="4" fill="#EFE9DC"/>
+  <rect x="468" y="270" width="242" height="126" rx="4" fill="#242724"/>
+  <path d="M278 305h121M278 332h95M278 360h72" stroke="#8C8B7F" stroke-linecap="round" stroke-width="4"/>
+  <path d="M499 308h161M499 337h126M499 365h94" stroke="#F6F2E8" stroke-linecap="round" stroke-width="4"/>
+  <rect x="250" y="424" width="180" height="56" rx="3" fill="#805500"/>
+  <rect x="450" y="424" width="140" height="56" rx="3" fill="#F6F2E8" stroke="#242724" stroke-width="2"/>
+  <path d="M281 452h118M477 452h86" stroke="#F6F2E8" stroke-linecap="round" stroke-width="4"/>
+  <path d="M250 528h110M250 552h165M250 576h125" stroke="#8C8B7F" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="681" cy="549" r="28" fill="none" stroke="#805500" stroke-width="4"/>
+  <path d="M670 549h22M681 538v22" stroke="#805500" stroke-linecap="round" stroke-width="3"/>
+</svg>

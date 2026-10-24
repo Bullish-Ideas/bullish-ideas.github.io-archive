@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Ideas in progress</title>
+  <desc id="desc">An open outline connects a starting point to a small grid of possible directions.</desc>
+  <rect width="960" height="720" fill="#EFE9DC"/>
+  <circle cx="622" cy="360" r="230" fill="#F6F2E8" stroke="#D6CEC0" stroke-width="2"/>
+  <circle cx="250" cy="390" r="73" fill="#F6F2E8" stroke="#242724" stroke-width="3"/>
+  <circle cx="250" cy="390" r="18" fill="#805500"/>
+  <path d="M323 390h96c47 0 65-43 105-43h37" fill="none" stroke="#242724" stroke-linecap="round" stroke-width="3"/>
+  <path d="M323 390h76c36 0 56 45 91 45h71" fill="none" stroke="#242724" stroke-dasharray="6 10" stroke-linecap="round" stroke-width="3"/>
+  <path d="M323 390h98c48 0 61 96 110 96h30" fill="none" stroke="#805500" stroke-linecap="round" stroke-width="3"/>
+  <rect x="568" y="305" width="52" height="52" rx="4" fill="#805500"/>
+  <rect x="642" y="305" width="52" height="52" rx="4" fill="#D6CEC0"/>
+  <rect x="716" y="305" width="52" height="52" rx="4" fill="#F6F2E8" stroke="#242724" stroke-width="2"/>
+  <rect x="568" y="408" width="52" height="52" rx="4" fill="#D6CEC0"/>
+  <rect x="642" y="408" width="52" height="52" rx="4" fill="#242724"/>
+  <rect x="716" y="408" width="52" height="52" rx="4" fill="#F6F2E8" stroke="#242724" stroke-width="2"/>
+  <path d="M174 519h118M174 539h76" fill="none" stroke="#8C8B7F" stroke-linecap="round" stroke-width="2"/>
+  <circle cx="567" cy="347" r="4" fill="#F6F2E8"/>
+  <path d="M694 488h82M694 508h51" fill="none" stroke="#8C8B7F" stroke-linecap="round" stroke-width="2"/>
+</svg>

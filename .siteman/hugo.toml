@@ -1,0 +1,67 @@
+baseURL = "https://bullish-ideas.github.io/"
+title = "Bullish Ideas"
+locale = "en-us"
+enableRobotsTXT = true
+
+layoutDir = ".siteman/layouts"
+archetypeDir = ".siteman/archetypes"
+themesDir = ".siteman/themes"
+resourceDir = ".siteman/resources"
+publishDir = "public"
+theme = ["github.com/Bullish-Design/roxo-flex", "siteman-default"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[params]
+business_name = "Bullish Ideas"
+description = "Early concepts, experiments, and writing about design and technology."
+logo = "images/bullish-ideas-mark.svg"
+footer_logo = "images/bullish-ideas-mark.svg"
+favicon = "images/bullish-ideas-mark.svg"
+custom_css = "css/site.css"
+copyright = "© 2026 Bullish Ideas"
+menu_icon = "icons/menu.svg"
+menu_close_icon = "icons/close.svg"
+
+[params.style]
+background = "#F6F2E8"
+surface = "#EFE9DC"
+text = "#242724"
+muted = "#555B54"
+border = "#D6CEC0"
+accent = "#805500"
+on_accent = "#FFFFFF"
+font_body = "system-ui, sans-serif"
+font_heading = "Georgia, serif"
+type_scale = "1.2"
+spacing = "1rem"
+button_radius = "0.2rem"
+hero_image_radius = "0"
+image_filter = "none"
+icon_size = "1.15rem"
+
+[[params.social]]
+name = "GitHub"
+url = "https://github.com/Bullish-Ideas"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Ideas"
+url = "/ideas/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
